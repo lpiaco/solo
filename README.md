@@ -1,0 +1,2 @@
+# solo
+LPIA Solo
